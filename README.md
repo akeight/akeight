@@ -26,7 +26,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Allyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dracula) 
+![Allyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeight&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akeight&layout=compact&theme=dracula) 
 
 
 
