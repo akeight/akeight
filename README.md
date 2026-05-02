@@ -1,7 +1,7 @@
 ## Hi, I'm Allyson! 👋
 
 💻 Software Engineering Student @ WGU<br/>
-🚀 Current Projects: **Interning at Itron as a mobile dev**<br/>
+🚀 Current Projects: **Interning at Itron, currently developing over on Azure DevOps**<br/>
 📚 Focus: **Data Structures & Algorithms**, **AI/ML**, **Full-Stack Development**<br/>
 🌱 Always exploring new tech and following fun<br/>
 ✨ Favorite mindset: "Everything is figure-outable" ☕<br/>
