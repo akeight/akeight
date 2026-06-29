@@ -1,10 +1,27 @@
 ## Hi, I'm Allyson! 👋
+<br/>
 
 💻 Software Engineering Student @ WGU<br/>
 🚀 Current Projects: **Interning at Itron, currently developing over on Azure DevOps**<br/>
 📚 Focus: **Data Structures & Algorithms**, **AI/ML**, **Full-Stack Development**<br/>
 🌱 Always exploring new tech and following fun<br/>
 ✨ Favorite mindset: "Everything is figure-outable" ☕<br/>
+
+## Stats Overview
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=akeight&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=akeight&hide_border=true&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeight&theme=github_dark" width="820" />
+</p>
+
+<p align="center">
+  <img height="195" alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akeight&theme=github_dark" />
+  <img height="195" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akeight&utcOffset=-7&theme=github_dark" />
+</p>
+<br/><br/>
 
 ### 🛠️ Tech Stack  
 
@@ -36,10 +53,8 @@
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23538DD7.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ---
+<br/><br/>
+<p align="center">
+<h3><i>You know you want to...</i></h3>
+<a href="https://www.buymeacoffee.com/akeight" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
-### <i>You know you want to...</i><br/>
-<a href="https://www.buymeacoffee.com/akeight" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<!-- ### 📊 GitHub Stats  
-![Allyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeight&show_icons=true&theme=radical)
-![Allyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeight&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akeight&layout=compact&theme=dracula) -->
