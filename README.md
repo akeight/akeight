@@ -2,7 +2,7 @@
 <br/>
 
 💻 Software Engineering Student @ WGU<br/>
-🚀 Current Projects: **Interning at Itron, currently developing over on Azure DevOps**<br/>
+🚀 Current Projects: **Interning at Itron, currently developing over on Azure DevOps | Founding Open Source Developer @ HackHQ**<br/>
 📚 Focus: **Data Structures & Algorithms**, **AI/ML**, **Full-Stack Development**<br/>
 🌱 Always exploring new tech and following fun<br/>
 ✨ Favorite mindset: "Everything is figure-outable" ☕<br/>
