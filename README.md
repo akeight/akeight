@@ -9,17 +9,16 @@
 
 ## Stats Overview
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=akeight&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=akeight&hide_border=true&theme=github-dark" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akeight&theme=tokyonight-duo&timezone=PST" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeight&theme=github_dark" width="820" />
+  <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeight&theme=tokyonight" width="820" />
 </p>
 
 <p align="center">
-  <img height="195" alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akeight&theme=github_dark" />
-  <img height="195" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akeight&utcOffset=-7&theme=github_dark" />
+  <img height="195" alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akeight&theme=tokyonight" />
+  <img height="195" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akeight&utcOffset=-7&theme=tokyonight" />
 </p>
 <br/><br/>
 
