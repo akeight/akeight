@@ -2,8 +2,8 @@
 <br/>
 
 💻 Software Engineering Student @ WGU<br/>
-🚀 Currently: **Interning at Itron, currently developing over on Azure DevOps | Founding Engineer @ Todd | Founding Developer @ HackHQ | Product @ From Campus to Career**<br/>
-📚 Focus: **Mobile Development**, **AI/ML**, **Full-Stack Development**<br/>
+🚀 Currently: Founding Engineer @ Todd<br/>
+📚 Focus: **Mobile Development**, **UX/UI**, **Product Engineering**<br/>
 🌱 Always exploring new tech and following fun<br/>
 ✨ Favorite mindset: "Everything is figure-outable" ☕<br/>
 
