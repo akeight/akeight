@@ -3,7 +3,7 @@
 
 💻 Software Engineering Student @ WGU<br/>
 🚀 Currently: Founding Engineer @ Todd<br/>
-📚 Focus: **Mobile Development**, **UX/UI**, **Product Engineering**<br/>
+📚 Focus: **Mobile Development**, **UX/UI**, **Product Engineering**, **AI/Machine Learning**<br/>
 🌱 Always exploring new tech and following fun<br/>
 ✨ Favorite mindset: "Everything is figure-outable" ☕<br/>
 
